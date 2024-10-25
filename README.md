@@ -42,9 +42,7 @@ Table created with [Tables Generator](https://www.tablesgenerator.com/markdown_t
 
 
 
-
-|NAME|ZODIAC|HOBBIES|AKSJDOSAJDOISJAODIJASOIDJ|
-|Sean Jin|Virgo|Guitar, Badminton, Presciption: -1.0|AOISJDOJAOFIJDOF|
+ndaslkjasjfajsldfnjadsfiuasfhpmcqweoijfcioqwjcioqwepjnfoijnwcijnadijfiojpojqoiewjfpoiadjsfoijpiojqweofjowpoejfisadjfoijwqfenjqefncinqweipncqoiwnjfcuahsynfoaojdkfjdaskfjq9p3iefu9aufwaeiofuwif 843f w9fwequnfiweqocipoiwdanfioquen8wurwepaufiosiodun92481rw9e8fpuiasofnq984nrq9w8naupfiq3r9y3489yrqw9ruifiasfj9i9dfupu4398urfwaeifjuwiodfjuq48ur-cwapfdsafjwaiopfuq0ru409ijwaif qweoifjcqwe8rfcn2rcweifcuq ccqnwe0rucqwepirncq nr4-812yrnc98qerwerqwe r
 ## Resources
 
 - [Good First Issue](https://goodfirstissues.com)
